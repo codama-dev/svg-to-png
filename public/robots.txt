@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://free-svg-to-png.codama.dev/sitemap.xml
